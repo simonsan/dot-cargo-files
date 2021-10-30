@@ -1,0 +1,39 @@
+[favorites.tui]
+description = "A template for bootstrapping a Rust TUI application with tui-rs & crossterm "
+git = "https://github.com/orhun/rust-tui-template"
+
+[favorites.60fps]
+description = "A template for a Rust Application using SixtyFPS. This is meant to be used with cargo-generate."
+git = "https://github.com/sixtyfpsui/sixtyfps-rust-template"
+
+[favorites.arduino]
+description = "A template for bootstrapping an Arduino project in Rust."
+git = "https://github.com/HKalbasi/rust-arduino-generator.git"
+
+[favorites.cortex-m]
+description = "Template to develop bare metal applications for Cortex-M microcontrollers"
+git = "https://github.com/rust-embedded/cortex-m-quickstart"
+
+[favorites.yew-trunk]
+description = "A template for a Yew project using Trunk."
+git = "https://github.com/yewstack/yew-trunk-minimal-template"
+
+[favorites.bevy]
+description = "A template for creating a Bevy game."
+git = "https://github.com/NiklasEi/bevy_game_template"
+
+[favorites.cli]
+description = "A template for creating a Rust CLI tool."
+git = "https://github.com/rust-cli/cli-template"
+
+[favorites.cli-advanced]
+description = "A template for creating an advanced Rust CLI tool."
+git = "https://github.com/rust-starter/rust-starter-generate"
+
+[favorites.flutter]
+description = "A template for minimal NativeShell application with Flutter."
+git = "https://github.com/nativeshell/app_template"
+
+[favorites.std]
+description = "A standard template for Rust CLI applications."
+git = "https://github.com/simonsan/rust-template-generate"
