@@ -14,7 +14,7 @@ git = "https://github.com/HKalbasi/rust-arduino-generator.git"
 description = "Template to develop bare metal applications for Cortex-M microcontrollers"
 git = "https://github.com/rust-embedded/cortex-m-quickstart"
 
-[favorites.web_yew-trunk]
+[favorites.frontend_yew-trunk]
 description = "A template for a Yew project using Trunk."
 git = "https://github.com/yewstack/yew-trunk-minimal-template"
 
@@ -46,7 +46,7 @@ git = "https://github.com/emilk/eframe_template"
 description = "A template to create a GUI app tauri."
 git = "https://github.com/tyrchen/rust-tauri-template"
 
-[favorites.web_warp-advanced]
+[favorites.backend_warp-advanced]
 description = "A template a web service using Warp + SQLx (PostgreSQL) + Redis + Juniper (GraphQL)."
 git = "https://github.com/rusty-crab/warp-api-starter-template"
 
@@ -60,11 +60,11 @@ description = "A template to create a GUI app with iced"
 git = "https://github.com/iced-rs/iced"
 subfolder = "examples/todos/"
 
-[favorites.web_axum]
+[favorites.backend_axum]
 description = "A template to create a web service with Axum"
 git = "https://github.com/tokio-rs/axum"
 subfolder = "examples/key-value-store/"
 
-[favorites.web_warp-crud]
+[favorites.backend_warp-crud]
 description = "A template to create a CRUD API with Warp"
 git = "https://github.com/zupzup/warp-postgres-example"
