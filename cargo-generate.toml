@@ -68,8 +68,3 @@ subfolder = "examples/key-value-store/"
 [favorites.web-warp-crud]
 description = "A template to create a CRUD API with Warp"
 git = "https://github.com/zupzup/warp-postgres-example"
-
-
-
-
-
