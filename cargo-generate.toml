@@ -2,23 +2,23 @@
 description = "A template for bootstrapping a Rust TUI application with tui-rs & crossterm "
 git = "https://github.com/orhun/rust-tui-template"
 
-[favorites.60fps]
-description = "A template for a Rust Application using SixtyFPS. This is meant to be used with cargo-generate."
+[favorites.gui-60fps]
+description = "A template for a Rust Application using SixtyFPS."
 git = "https://github.com/sixtyfpsui/sixtyfps-rust-template"
 
-[favorites.arduino]
+[favorites.embedded-arduino]
 description = "A template for bootstrapping an Arduino project in Rust."
 git = "https://github.com/HKalbasi/rust-arduino-generator.git"
 
-[favorites.cortex-m]
+[favorites.embedded-cortex-m]
 description = "Template to develop bare metal applications for Cortex-M microcontrollers"
 git = "https://github.com/rust-embedded/cortex-m-quickstart"
 
-[favorites.yew-trunk]
+[favorites.web-yew-trunk]
 description = "A template for a Yew project using Trunk."
 git = "https://github.com/yewstack/yew-trunk-minimal-template"
 
-[favorites.bevy]
+[favorites.game-bevy]
 description = "A template for creating a Bevy game."
 git = "https://github.com/NiklasEi/bevy_game_template"
 
@@ -30,10 +30,46 @@ git = "https://github.com/rust-cli/cli-template"
 description = "A template for creating an advanced Rust CLI tool."
 git = "https://github.com/rust-starter/rust-starter-generate"
 
-[favorites.flutter]
+[favorites.gui-flutter]
 description = "A template for minimal NativeShell application with Flutter."
 git = "https://github.com/nativeshell/app_template"
 
 [favorites.std]
 description = "A standard template for Rust CLI applications."
 git = "https://github.com/simonsan/rust-template-generate"
+
+[favorites.gui-egui]
+description = "A template to create a GUI app with eframe (egui framework)."
+git = "https://github.com/emilk/eframe_template"
+
+[favorites.gui-tauri]
+description = "A template to create a GUI app tauri."
+git = "https://github.com/tyrchen/rust-tauri-template"
+
+[favorites.warp-advanced]
+description = "A template for starting a web service using Warp + SQLx (PostgreSQL) + Redis + Juniper (GraphQL)."
+git = "https://github.com/rusty-crab/warp-api-starter-template"
+
+[favorites.gui-iced-progress]
+description = "A template to create a GUI app with iced"
+git = "https://github.com/iced-rs/iced"
+subfolder = "examples/download_progress/"
+
+[favorites.gui-iced-todos]
+description = "A template to create a GUI app with iced"
+git = "https://github.com/iced-rs/iced"
+subfolder = "examples/todos/"
+
+[favorites.web-axum]
+description = "A template to create a web service with Axum"
+git = "https://github.com/tokio-rs/axum"
+subfolder = "examples/key-value-store/"
+
+[favorites.web-warp-crud]
+description = "A template to create a CRUD API with Warp"
+git = "https://github.com/zupzup/warp-postgres-example"
+
+
+
+
+
