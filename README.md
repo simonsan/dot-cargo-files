@@ -1,1 +1,1 @@
-# cargo-dot-files
+# dot-cargo-files
