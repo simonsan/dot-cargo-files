@@ -46,6 +46,10 @@ git = "https://github.com/emilk/eframe_template"
 description = "A template to create a GUI app tauri."
 git = "https://github.com/tyrchen/rust-tauri-template"
 
+[favorites.frontend_svelte]
+description = "A template to create a Svelte app with Rocket backend"
+git = "https://github.com/sachinbhutani/svelte-on-rust"
+
 [favorites.backend_warp-advanced]
 description = "A template a web service using Warp + SQLx (PostgreSQL) + Redis + Juniper (GraphQL)."
 git = "https://github.com/rusty-crab/warp-api-starter-template"
@@ -64,6 +68,11 @@ subfolder = "examples/todos/"
 description = "A template to create a web service with Axum"
 git = "https://github.com/tokio-rs/axum"
 subfolder = "examples/key-value-store/"
+
+[favorites.backend_axum_seaorm]
+description = "A template to create a web service with Axum and SeaORM"
+git = "https://github.com/SeaQL/sea-orm/tree/master/examples/axum_example"
+subfolder = "tree/master/examples/axum_example"
 
 [favorites.backend_warp-crud]
 description = "A template to create a CRUD API with Warp"
