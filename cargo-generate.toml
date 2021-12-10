@@ -71,8 +71,8 @@ subfolder = "examples/key-value-store/"
 
 [favorites.backend_axum_seaorm]
 description = "A template to create a web service with Axum and SeaORM"
-git = "https://github.com/SeaQL/sea-orm/tree/master/examples/axum_example"
-subfolder = "tree/master/examples/axum_example"
+git = "https://github.com/SeaQL/sea-orm/"
+subfolder = "examples/axum_example"
 
 [favorites.backend_warp-crud]
 description = "A template to create a CRUD API with Warp"
