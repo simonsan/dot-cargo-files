@@ -34,6 +34,11 @@ git = "https://github.com/rust-starter/rust-starter-generate"
 description = "A template for minimal NativeShell application with Flutter."
 git = "https://github.com/nativeshell/app_template"
 
+[favorites.gui_flutter_bridge]
+description = "A template for a Flutter app using Flutter-Rust-Bridge."
+git = "https://github.com/fzyzcjy/flutter_rust_bridge"
+subfolder = "frb_example/with_flutter/"
+
 [favorites.cli_custom]
 description = "A standard template for Rust CLI applications."
 git = "https://github.com/simonsan/rust-template-generate"
@@ -77,3 +82,7 @@ subfolder = "examples/axum_example"
 [favorites.backend_warp-crud]
 description = "A template to create a CRUD API with Warp"
 git = "https://github.com/zupzup/warp-postgres-example"
+
+[favorites.wasm-web-extension]
+description = "A template to create a WASM webextension"
+git = "https://github.com/Mubelotix/wasm-extension-template"
