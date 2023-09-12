@@ -1,6 +1,6 @@
 [favorites.tui_std]
 description = "A template for bootstrapping a Rust TUI application with tui-rs & crossterm "
-git = "https://github.com/orhun/rust-tui-template"
+git = "https://github.com/ratatui-org/rust-tui-template"
 
 [favorites.gui_slint]
 description = "A template for a Rust Application using SixtyFPS."
@@ -89,8 +89,12 @@ git = "https://github.com/Mubelotix/wasm-extension-template"
 
 [favorites.wasm_deno-deploy]
 description = "A template for creating Deno Deploy projects in Rust"
-https://github.com/yoav-lavi/deno-deploy-rust-template
+git = "https://github.com/yoav-lavi/deno-deploy-rust-template"
 
 [favorites.fullstack_axum-svelte]
 description = "A template for Rust Axum backend and Svelte frontend"
-https://github.com/simonsan/svelte-axum-project
+git = "https://github.com/simonsan/svelte-axum-project"
+
+[favorites.fullstack_axum_leptos]
+description = "A template for creating a web service with Axum and Leptos"
+git = "https://github.com/leptos-rs/start-axum"
